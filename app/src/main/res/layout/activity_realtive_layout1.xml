@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jstalin.layouts.RealtiveLayout1">
+
+    <TextView
+        android:id="@+id/tvInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stInfo1" />
+
+    <EditText
+        android:id="@+id/etInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvInfo" />
+
+    <Button
+        android:id="@+id/btCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/stbtCancel"
+
+        android:layout_below="@+id/etInfo"
+        android:layout_toLeftOf="@+id/btOk"
+        android:layout_toStartOf="@+id/btOk"
+        android:layout_marginRight="23dp"
+         />
+
+     <Button
+         android:id="@+id/btOk"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="@string/stbtOk"
+         android:layout_alignParentRight="true"
+         android:layout_below="@+id/etInfo"
+         />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/st1"/>
+
+</RelativeLayout>

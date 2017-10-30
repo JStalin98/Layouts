@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Layouts</string>
+
+    <string name="stInfo1">Escribe aqui:</string>
+    <string name="stbtCancel">Cancel</string>
+    <string name="stbtOk">Ok</string>
+
+    <string name="st0">0</string>
+    <string name="st1">1</string>
+    <string name="st2">2</string>
+    <string name="st3">3</string>
+    <string name="st4">4</string>
+    <string name="st5">5</string>
+    <string name="st6">6</string>
+    <string name="st7">7</string>
+    <string name="st8">8</string>
+    <string name="st9">9</string>
+
+    <string name="stmas">+</string>
+    <string name="stigual">=</string>
+    <string name="stC">C</string>
+
+
 </resources>
