@@ -31,6 +31,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void boton4(View view){
+        Intent i = new Intent(this, GridLayout1.class);
+        startActivity(i);
+    }
+
 
 
 }
