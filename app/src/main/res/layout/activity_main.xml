@@ -26,6 +26,11 @@
         android:text="@string/bt3Menu"
         android:onClick="boton3" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt4Menu"
+        android:onClick="boton4" />
 
 
 </LinearLayout>

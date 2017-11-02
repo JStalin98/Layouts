@@ -4,6 +4,7 @@
     <string name="bt1Menu">Relative Layout 1</string>
     <string name="bt2Menu">Table Layout 1</string>
     <string name="bt3Menu">Linear Layout 1</string>
+    <string name="bt4Menu">Grid Layout 1</string>
 
     <string name="stInfo1">Escribe aqui:</string>
     <string name="stbtCancel">Cancel</string>
