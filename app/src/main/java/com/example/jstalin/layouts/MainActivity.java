@@ -36,6 +36,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void boton5(View view){
+        Intent i = new Intent(this, ConstraintLayout1.class);
+        startActivity(i);
+    }
+
 
 
 }
