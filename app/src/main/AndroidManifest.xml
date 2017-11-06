@@ -19,7 +19,8 @@
         <activity android:name=".RealtiveLayout1" />
         <activity android:name=".TableLayout1" />
         <activity android:name=".LinearLayout1" />
-        <activity android:name=".GridLayout1"></activity>
+        <activity android:name=".GridLayout1" />
+        <activity android:name=".ConstraintLayout1"></activity>
     </application>
 
 </manifest>
