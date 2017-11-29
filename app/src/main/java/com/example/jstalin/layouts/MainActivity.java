@@ -41,6 +41,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void boton6(View view){
+        Intent i = new Intent(this, CardView1.class);
+        startActivity(i);
+    }
+
 
 
 }

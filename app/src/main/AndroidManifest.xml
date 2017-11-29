@@ -20,7 +20,8 @@
         <activity android:name=".TableLayout1" />
         <activity android:name=".LinearLayout1" />
         <activity android:name=".GridLayout1" />
-        <activity android:name=".ConstraintLayout1"></activity>
+        <activity android:name=".ConstraintLayout1" />
+        <activity android:name=".CardView1"></activity>
     </application>
 
 </manifest>

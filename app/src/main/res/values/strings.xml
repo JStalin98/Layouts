@@ -6,6 +6,7 @@
     <string name="bt3Menu">Linear Layout 1</string>
     <string name="bt4Menu">Grid Layout 1</string>
     <string name="bt5Menu">Constraint Layout 1</string>
+    <string name="bt6Menu">Card View 1</string>
 
     <string name="stInfo1">Escribe aqui:</string>
     <string name="stbtCancel">Cancel</string>
@@ -25,6 +26,9 @@
     <string name="stmas">+</string>
     <string name="stigual">=</string>
     <string name="stC">C</string>
+
+    <string name="nombre_persona">JStalin</string>
+    <string name="edad_persona">19</string>
 
 
 </resources>
