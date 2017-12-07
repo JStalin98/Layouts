@@ -45,4 +45,10 @@
         android:text="@string/bt6Menu"
         android:onClick="boton6" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt7Menu"
+        android:onClick="boton7" />
+
 </LinearLayout>

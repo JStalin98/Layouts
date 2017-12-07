@@ -21,7 +21,8 @@
         <activity android:name=".LinearLayout1" />
         <activity android:name=".GridLayout1" />
         <activity android:name=".ConstraintLayout1" />
-        <activity android:name=".CardView1"></activity>
+        <activity android:name=".CardView1" />
+        <activity android:name=".ReyclerView1"></activity>
     </application>
 
 </manifest>
